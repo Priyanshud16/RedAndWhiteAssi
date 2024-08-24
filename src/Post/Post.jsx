@@ -44,14 +44,7 @@ const PostForm = () => {
       newErrors.blogger_name = 'Blogger name must be at least 3 characters long.';
     }
 
-    // const urlPattern = new RegExp('^(https?:\\/\\/)?'+ 
-    //   '((([a-z0-9]\\-?)|([a-z0-9])\\.?)+\\.)+[a-z]{2,}'+ 
-    //   '(\\:[0-9]{1,5})?'+ // port
-    //   '(\\/[^\\s]*)?$', 'i'); // path
-    // if (!urlPattern.test(formData.image)) {
-    //   isValid = false;
-    //   newErrors.image = 'Invalid image URL.';
-    // }
+  
 
     if (formData.description.length < 3) {
       isValid = false;
@@ -65,7 +58,7 @@ const PostForm = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
     if (validateForm()) {
-      fetch('http://localhost:3000/posts', {
+      fetch('https://redandwhitebackend.onrender.com/user', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json'

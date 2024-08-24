@@ -7,7 +7,7 @@ const [Data,setData]=useState([])
   },[])
   async function FetchData() {
     try {
-      const res=await fetch("http://localhost:3000/posts")
+      const res=await fetch("https://redandwhitebackend.onrender.com/user")
       const data=await res.json()
       setData(data)
     } catch (error) {
