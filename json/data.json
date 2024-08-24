@@ -1,0 +1,105 @@
+{
+  "posts": [
+    {
+      "category": "Entertainment",
+      "title": "The Rise of Streaming Platforms",
+      "blogger_name": "JaneDoe",
+      "image": "https://example.com/images/streaming.jpg",
+      "description": "An in-depth look at how streaming platforms have transformed the entertainment industry over the last decade."
+    },
+    {
+      "category": "Technology",
+      "title": "Latest Trends in Artificial Intelligence",
+      "blogger_name": "JohnSmith",
+      "image": "https://example.com/images/ai_trends.jpg",
+      "description": "Explore the cutting-edge trends in AI technology and how they are shaping the future of various industries."
+    },
+    {
+      "category": "Sports",
+      "title": "Olympic Games 2024 Preview",
+      "blogger_name": "EmilyClark",
+      "image": "https://example.com/images/olympics2024.jpg",
+      "description": "Get a preview of the upcoming Olympic Games in Paris and the athletes to watch."
+    },
+    {
+      "category": "Business",
+      "title": "Strategies for Startup Success",
+      "blogger_name": "MichaelBrown",
+      "image": "https://example.com/images/startup_success.jpg",
+      "description": "A comprehensive guide on the best practices and strategies for new startups to achieve success in a competitive market."
+    },
+    {
+      "category": "Health",
+      "title": "The Importance of Mental Health",
+      "blogger_name": "SarahJones",
+      "image": "https://example.com/images/mental_health.jpg",
+      "description": "Understanding the significance of mental health and how to maintain a healthy mental state."
+    },
+    {
+      "category": "Science",
+      "title": "Discoveries in Quantum Physics",
+      "blogger_name": "DavidWilliams",
+      "image": "https://example.com/images/quantum_physics.jpg",
+      "description": "An overview of the latest discoveries and advancements in the field of quantum physics."
+    },
+    {
+      "category": "Entertainment",
+      "title": "Top 10 Movies of 2024",
+      "blogger_name": "AliceDavis",
+      "image": "https://example.com/images/top_movies_2024.jpg",
+      "description": "A countdown of the top 10 movies of 2024 that you absolutely cannot miss."
+    },
+    {
+      "category": "Technology",
+      "title": "How 5G is Changing the World",
+      "blogger_name": "RobertMartinez",
+      "image": "https://example.com/images/5g_impact.jpg",
+      "description": "Explore the transformative effects of 5G technology on communication and everyday life."
+    },
+    {
+      "category": "Sports",
+      "title": "Football World Cup 2026: What to Expect",
+      "blogger_name": "LauraMiller",
+      "image": "https://example.com/images/football_world_cup.jpg",
+      "description": "A look ahead at what fans can expect from the Football World Cup 2026 and the potential standout teams."
+    },
+    {
+      "category": "Business",
+      "title": "Effective Remote Work Strategies",
+      "blogger_name": "ChrisWilson",
+      "image": "https://example.com/images/remote_work.jpg",
+      "description": "Tips and strategies for businesses to manage and optimize remote work environments effectively."
+    },
+    {
+      "category": "Health",
+      "title": "Nutrition Tips for a Balanced Diet",
+      "blogger_name": "RachelMoore",
+      "image": "https://example.com/images/nutrition_tips.jpg",
+      "description": "Essential tips for maintaining a balanced diet and promoting overall health and well-being."
+    },
+    {
+      "id": "fe78",
+      "category": "Entertainment",
+      "title": "me ",
+      "blogger_name": "priyanshu",
+      "image": "https://th.bing.com/th?id=ORMS.35bc287ac86c68b672574d8b8d975dec&pid=Wdp&w=612&h=328&qlt=90&c=1&rs=1&dpr=1.25&p=0",
+      "description": "djskskskaka"
+    },
+    {
+      "id": "2dda",
+      "category": "Entertainment",
+      "title": "me ",
+      "blogger_name": "priyanshu",
+      "image": "https://th.bing.com/th?id=ORMS.35bc287ac86c68b672574d8b8d975dec&pid=Wdp&w=612&h=328&qlt=90&c=1&rs=1&dpr=1.25&p=0",
+      "description": "djskskskaka"
+    },
+    {
+      "id": "fce6",
+      "category": "Entertainment",
+      "title": "prididi",
+      "blogger_name": "djkdks",
+      "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1pmioJ.img?w=612&h=328&q=90&m=6&f=jpg&x=261&y=132&u=t",
+      "description": "sdoisdoisd"
+    }
+  ]
+}
